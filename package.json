@@ -35,7 +35,7 @@
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "promise": "*",
-        "multi-hashing": "git://github.com/nosekefik/node-multi-hashing.git"
+        "phi": "git://github.com/216k155/node-phi-hashing-module.git"
     },
     "engines": {
         "node": ">=7"
